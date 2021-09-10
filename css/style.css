@@ -361,7 +361,7 @@ button {
      text-align: center;
      display: inline-block;
      transition: ease-in all 0.5s;
-     float: left;
+     float: none;
 }
 
 .text-bg a:hover {
