@@ -789,6 +789,10 @@ button {
      color: #d0b608;
 }
 
-
+@media(max-width:600px){
+.banner-img{
+float:center!important; 
+ }
+}
 /** end footer **/
 
