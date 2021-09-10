@@ -791,7 +791,10 @@ button {
 
 @media(max-width:600px){
 .banner-img{
-float:center!important; 
+float:none!important; 
+ }
+ .text-img figure img{
+  width:100%;
  }
 }
 /** end footer **/
